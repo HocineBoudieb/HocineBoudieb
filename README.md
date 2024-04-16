@@ -16,7 +16,7 @@ I am always on the lookout for new challenges and collaboration opportunities. I
 
 📫 How to reach me: hocine.boudieb@universite-paris-saclay.fr
 
-🔗 [LinkedIn](https://www.linkedin.com/in/hocineboudieb) (optional: add your LinkedIn URL)
+🔗 [LinkedIn](https://www.linkedin.com/in/hocineboudieb)
 
 Thank you for visiting my profile. Let's innovate and learn together! 🚀
 
