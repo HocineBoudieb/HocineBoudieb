@@ -8,7 +8,7 @@ I'm currently an Embedded AI Autonomous Vehicle Engineer Intern at **Alten**, wh
 
 ## Personal Projects 🛠️
 
-This space is not just for my professional work; it's also a canvas for my personal projects. Here, you'll find everything from robotics experiments to applications of AI in diverse scenarios. Whether it's a real-time insulin regulation system inspired by the Bergman Model or a custom-designed Connect Four game, each project showcases my skills and passion for innovation.
+This space is not just for my professional work; it's also a canvas for my personal projects. Here, you'll find everything from robotics experiments to applications of AI in diverse scenarios.
 
 ## Collaboration and Contact 📬
 
